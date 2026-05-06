@@ -10,6 +10,7 @@ How does Theraluxe perform relative to competitors in converting brand awareness
 
 ## Data & Methodology
 - Survey-based dataset (synthetic)
+- Designed and authored the full survey instrument
 - Transformed wide-format data into a brand-level structure
 - Created calculated metrics for:
   - Awareness (%)
@@ -17,9 +18,10 @@ How does Theraluxe perform relative to competitors in converting brand awareness
   - Conversion comparison
 
 ## Approach
-1. Restructured raw survey data for analysis (pivoting brand variables)
-2. Built a comparative brand-level dataset
-3. Developed a Tableau dashboard to visualize:
+1. Designed and programmed the survey to capture brand awareness and purchase behavior
+2. Restructured raw survey data for analysis (pivoting brand variables)
+3. Built a comparative brand-level dataset
+4. Developed a Tableau dashboard to visualize:
    - Awareness vs Purchase
    - Conversion gaps across brands
 
@@ -37,5 +39,5 @@ View the interactive dashboard here:
 👉 https://public.tableau.com/app/profile/genevieve.jones2207/viz/VMSBrandFunnelAnalysisTheraluxeCaseStudy/BrandFunnelAwarenessvsPurchaseConversion
 
 ## Files
-- `theraluxe_brand_funnel_dashboard.twbx` → Tableau dashboard
-- `theraluxe_dataset.xlsx` → cleaned dataset
+- `theraluxe_brand_funnel_dashboard.twbx` → Tableau dashboard  
+- `theraluxe_dataset.xlsx` → cleaned dataset  
