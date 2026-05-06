@@ -18,7 +18,7 @@ How does Theraluxe perform relative to competitors in converting brand awareness
   - Conversion comparison
 
 ## Approach
-1. Designed and programmed the survey to capture brand awareness and purchase behavior
+1. Designed the survey to capture brand awareness and purchase behavior
 2. Restructured raw survey data for analysis (pivoting brand variables)
 3. Built a comparative brand-level dataset
 4. Developed a Tableau dashboard to visualize:
