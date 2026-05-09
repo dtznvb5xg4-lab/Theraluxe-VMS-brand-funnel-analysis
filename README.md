@@ -10,11 +10,17 @@ This project includes:
 
 ## 🔗 Dashboards
 
-### Brand Funnel Analysis (Awareness → Purchase)
-[View Dashboard]([PASTE YOUR FUNNEL LINK HERE](https://public.tableau.com/app/profile/genevieve.jones2207/viz/VMSBrandFunnelAnalysisTheraluxeCaseStudy/BrandFunnelAwarenessvsPurchaseConversion))
+This project is structured across two complementary analyses:
 
-### Buyer Market Profile (Who is Most Likely to Buy)
+### 1. Brand Funnel Analysis
+Evaluates how Theraluxe converts awareness into purchase relative to competitors.  
+[View Dashboard](https://public.tableau.com/app/profile/genevieve.jones2207/viz/VMSBrandFunnelAnalysisTheraluxeCaseStudy/BrandFunnelAwarenessvsPurchaseConversion)
+
+### 2. Buyer Market Profile
+Identifies the demographic segments most likely to purchase Theraluxe.  
 [View Dashboard](https://public.tableau.com/views/TheraluxeBuyerMarketProfile/TheraluxeBuyerMarketProfile)
+
+---
 
 ## 🧭 Research Question
 How does Theraluxe perform relative to competitors, and which consumer segments are most likely to purchase?
@@ -35,8 +41,7 @@ How does Theraluxe perform relative to competitors, and which consumer segments 
 ## 🗂️ Files Included
 - Tableau workbook
 - Synthetic survey dataset
-- Survey instrucment
-- Data documentation
+- Survey/data documentation
 
 ## 🛠️ Tools Used
 - Tableau Public
