@@ -6,7 +6,7 @@
 ---
 
 ## 📊 Project Overview
-End-to-end consumer insights analysis using survey data to evaluate brand performance and identify key drivers of purchase behavior.
+End-to-end consumer insights analysis using synthetic survey data built off a custom designed survey to evaluate brand performance and identify key drivers of purchase behavior.
 
 This project includes:
 - Brand funnel analysis (Awareness → Purchase)
