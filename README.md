@@ -8,8 +8,13 @@ This project includes:
 - Market profile analysis across demographic segments
 - Strategic recommendations for growth opportunities
 
-## 🔗 Live Dashboard
-[View on Tableau Public](https://public.tableau.com/views/TheraluxeBuyerMarketProfile/TheraluxeBuyerMarketProfile)
+## 🔗 Dashboards
+
+### Brand Funnel Analysis (Awareness → Purchase)
+[View Dashboard](PASTE YOUR FUNNEL LINK HERE)
+
+### Buyer Market Profile (Who is Most Likely to Buy)
+[View Dashboard](https://public.tableau.com/views/TheraluxeBuyerMarketProfile/TheraluxeBuyerMarketProfile)
 
 ## 🧭 Research Question
 How does Theraluxe perform relative to competitors, and which consumer segments are most likely to purchase?
