@@ -1,43 +1,55 @@
-# VMS Brand Funnel Analysis (Theraluxe Case Study)
+# Theraluxe Brand Funnel & Market Profile Analysis
 
-## Overview
-This project analyzes brand performance in the Vitamins, Minerals, and Supplements (VMS) category using synthetic survey data.
+## 🔗 Live Dashboard
+[View on Tableau Public](https://public.tableau.com/views/TheraluxeBuyerMarketProfile/TheraluxeBuyerMarketProfile)
 
-The goal was to evaluate how effectively brands convert awareness into purchase and identify opportunities for improvement.
+---
 
-## Business Question
-How does Theraluxe perform relative to competitors in converting brand awareness into purchase?
+## 📊 Project Overview
+End-to-end consumer insights analysis using survey data to evaluate brand performance and identify key drivers of purchase behavior.
 
-## Data & Methodology
-- Survey-based dataset (synthetic)
-- Designed and authored the full survey instrument
-- Transformed wide-format data into a brand-level structure
-- Created calculated metrics for:
-  - Awareness (%)
-  - Purchase (%)
-  - Conversion comparison
+This project includes:
+- Brand funnel analysis (Awareness → Purchase)
+- Market profile analysis (demographic drivers)
+- Business insights and growth opportunities
 
-## Approach
-1. Designed the survey to capture brand awareness and purchase behavior
-2. Restructured raw survey data for analysis (pivoting brand variables)
-3. Built a comparative brand-level dataset
-4. Developed a Tableau dashboard to visualize:
-   - Awareness vs Purchase
-   - Conversion gaps across brands
+---
 
-## Key Insight
-Theraluxe demonstrates strong awareness (~57%) but underperforms top competitors in purchase conversion (~17% vs ~20–23%).
+## 🧠 Key Insights
 
-This suggests an opportunity to focus on mid-funnel conversion strategies.
+- Theraluxe purchase likelihood peaks among consumers aged **55–64**
+- Higher-income households (**$75K+**) show stronger purchase rates, indicating premium positioning
+- **Female consumers** demonstrate higher engagement than males
+- Lower penetration among younger and lower-income segments highlights **growth opportunities**
 
-## Tools Used
-- Tableau (data visualization)
-- Excel (data transformation)
+---
 
-## Dashboard
-View the interactive dashboard here:  
-👉 https://public.tableau.com/app/profile/genevieve.jones2207/viz/VMSBrandFunnelAnalysisTheraluxeCaseStudy/BrandFunnelAwarenessvsPurchaseConversion
+## 🛠️ Methodology
 
-## Files
-- `theraluxe_brand_funnel_dashboard.twbx` → Tableau dashboard  
-- `theraluxe_dataset.xlsx` → cleaned dataset  
+- Designed and authored the survey instrument
+- Transformed raw survey data in Tableau
+- Created calculated fields (e.g., Buyer Flag, Purchase Rate)
+- Built dashboards to analyze:
+  - Brand funnel performance
+  - Demographic penetration by segment
+
+---
+
+## 📁 Files Included
+
+- Tableau Workbook (.twbx)
+- Source dataset (synthetic survey data)
+- Dashboard visualizations
+
+---
+
+## 🚀 Tools Used
+
+- Tableau Public
+- Excel / CSV (data source)
+
+---
+
+## 📌 About Me
+
+I specialize in end-to-end consumer insights — from survey design to analysis and storytelling — translating data into actionable business recommendations.
