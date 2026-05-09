@@ -11,7 +11,7 @@ This project includes:
 ## 🔗 Dashboards
 
 ### Brand Funnel Analysis (Awareness → Purchase)
-[View Dashboard](PASTE YOUR FUNNEL LINK HERE)
+[View Dashboard]([PASTE YOUR FUNNEL LINK HERE](https://public.tableau.com/app/profile/genevieve.jones2207/viz/VMSBrandFunnelAnalysisTheraluxeCaseStudy/BrandFunnelAwarenessvsPurchaseConversion))
 
 ### Buyer Market Profile (Who is Most Likely to Buy)
 [View Dashboard](https://public.tableau.com/views/TheraluxeBuyerMarketProfile/TheraluxeBuyerMarketProfile)
